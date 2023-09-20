@@ -1,5 +1,5 @@
 import unittest
 
-class TestHaha(unittest.Testcase):
-    def test():
+class TestHaha(unittest.TestCase):
+    def test(self):
         ...
